@@ -1,0 +1,2 @@
+Hola bienvenido al mundo de Git & GitHub. 
+Este es el primer ejercicio del curso 
